@@ -35,4 +35,9 @@ tools:context="com.example.labon.geoquiz.QuizActivity">
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/next_button" />
+    <Button
+        android:id="@+id/prev_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/prev_button" />
 </android.support.v7.widget.LinearLayoutCompat>
